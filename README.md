@@ -20,3 +20,9 @@ Live Demo -
 ├── index.html
 ├── style.css
 ├── script.js
+
+## ⚙️ How It Works
+- User enters OTP digit-by-digit
+- Focus automatically moves to next input
+- Backspace moves to previous input
+- Input is restricted to numbers only
