@@ -10,3 +10,8 @@ Live Demo -
 - Clean and minimal UI design
 - Responsive layout
 - "Resend Code" option UI
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
