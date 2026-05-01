@@ -32,3 +32,6 @@ OTP auto-paste support
 API integration for real verification
 Timer for resend code
 Mobile optimization enhancements
+
+🤝 Contributing
+Feel free to fork this repo and improve the UI or functionality.
