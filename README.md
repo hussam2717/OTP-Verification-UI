@@ -26,3 +26,9 @@ Live Demo -
 - Focus automatically moves to next input
 - Backspace moves to previous input
 - Input is restricted to numbers only
+
+💡 Future Improvements
+OTP auto-paste support
+API integration for real verification
+Timer for resend code
+Mobile optimization enhancements
